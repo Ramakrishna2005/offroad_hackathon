@@ -1,0 +1,11 @@
+TRAINING RESULTS
+==================================================
+
+Final Metrics:
+  Final Train Loss:     1.2923
+  Final Val Loss:       1.2951
+  Final Val IoU:        0.4070
+  Final Val Dice:       0.5252
+  Final Val Accuracy:   0.7158
+==================================================
+
